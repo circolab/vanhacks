@@ -1,23 +1,50 @@
-<?xml version="1.0"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="75.9881386613mm" height="163.267315491mm" viewBox="0 0 75.9881386613 163.267315491" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g transform="translate(37.9940693307,122.974893873) scale(1,-1)">
-<path id="Shape2DView" d="M 23.5302604093 122.229912121 L 23.5302604093 82.2299121209 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M 23.5302604093 122.229912121 L 29.5302604093 122.229912121 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M 23.5302604093 82.2299121209 L -29.5302604093 52.2299121209 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M 29.5302604093 122.229912121 L 29.5302604093 52.2299121209 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M -29.5302604093 52.2299121209 A 60.0 60.0 0 1 1 29.5302604093 52.2299121209 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M 6.0 -39.5474398666 L -6.0 -39.5474398666 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M 6.0 -31.5474398666 L 6.0 -39.5474398666 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M -6.0 -39.5474398666 L -6.0 -31.5474398666 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M -6.0 -31.5474398666 L 6.0 -31.5474398666 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M 30.3208843488 10.5775675106 L 24.3208843488 20.969872356 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M 37.2490875791 14.5775675106 L 30.3208843488 10.5775675106 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M 31.2490875791 24.969872356 L 37.2490875791 14.5775675106 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M 24.3208843488 20.969872356 L 31.2490875791 24.969872356 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M -30.3208843488 10.5775675106 L -37.2490875791 14.5775675106 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M -24.3208843488 20.969872356 L -30.3208843488 10.5775675106 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M -31.2490875791 24.969872356 L -24.3208843488 20.969872356 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Shape2DView" d="M -37.2490875791 14.5775675106 L -31.2490875791 24.969872356 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with FreeCAD (http://www.freecadweb.org) -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+     version="1.1" baseProfile="full"
+     width="277" height="190">
+<g>
+</g>
+<path
+   d="M 10,10 L 267,10 L 267,180 L 10,180 L 10,10 z "
+   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<g>
+<line x1="193.568" y1="20.0061" x2="198.682" y2="21.6596" stroke="#191919" stroke-width="1px" />
+<line x1="193.568" y1="20.0061" x2="179.339" y2="43.6069" stroke="#191919" stroke-width="1px" />
+<line x1="198.682" y1="21.6596" x2="173.781" y2="62.9611" stroke="#191919" stroke-width="1px" />
+<line x1="179.339" y1="43.6069" x2="123.444" y2="46.6847" stroke="#191919" stroke-width="1px" />
+<line x1="123.444" y1="46.6847" x2="109.382" y2="48.8079" stroke="#191919" stroke-width="1px" />
+<line x1="109.382" y1="48.8079" x2="96.7375" y2="53.4583" stroke="#191919" stroke-width="1px" />
+<line x1="96.7375" y1="53.4583" x2="86.3771" y2="60.3169" stroke="#191919" stroke-width="1px" />
+<line x1="181.112" y1="72.0018" x2="173.781" y2="62.9611" stroke="#191919" stroke-width="1px" />
+<line x1="112.364" y1="62.2658" x2="116.958" y2="66.642" stroke="#191919" stroke-width="1px" />
+<line x1="103.407" y1="66.8186" x2="112.364" y2="62.2658" stroke="#191919" stroke-width="1px" />
+<line x1="86.3771" y1="60.3169" x2="79.0122" y2="68.913" stroke="#191919" stroke-width="1px" />
+<line x1="116.958" y1="66.642" x2="108.001" y2="71.1948" stroke="#191919" stroke-width="1px" />
+<line x1="108.001" y1="71.1948" x2="103.407" y2="66.8186" stroke="#191919" stroke-width="1px" />
+<line x1="184.939" y1="81.9783" x2="181.112" y2="72.0018" stroke="#191919" stroke-width="1px" />
+<line x1="79.0122" y1="68.913" x2="75.1481" y2="78.6569" stroke="#191919" stroke-width="1px" />
+<line x1="158.012" y1="79.9168" x2="165.523" y2="79.4548" stroke="#191919" stroke-width="1px" />
+<line x1="165.523" y1="79.4548" x2="166.964" y2="87.3698" stroke="#191919" stroke-width="1px" />
+<line x1="159.453" y1="87.8318" x2="158.012" y2="79.9168" stroke="#191919" stroke-width="1px" />
+<line x1="184.998" y1="92.2061" x2="184.939" y2="81.9783" stroke="#191919" stroke-width="1px" />
+<line x1="166.964" y1="87.3698" x2="159.453" y2="87.8318" stroke="#191919" stroke-width="1px" />
+<line x1="75.1481" y1="78.6569" x2="75.0501" y2="88.8799" stroke="#191919" stroke-width="1px" />
+<line x1="181.285" y1="101.983" x2="184.998" y2="92.2061" stroke="#191919" stroke-width="1px" />
+<line x1="75.0501" y1="88.8799" x2="78.7248" y2="98.8805" stroke="#191919" stroke-width="1px" />
+<line x1="174.056" y1="110.639" x2="181.285" y2="101.983" stroke="#191919" stroke-width="1px" />
+<line x1="113.689" y1="102.445" x2="124.086" y2="105.807" stroke="#191919" stroke-width="1px" />
+<line x1="110.772" y1="107.283" x2="113.689" y2="102.445" stroke="#191919" stroke-width="1px" />
+<line x1="78.7248" y1="98.8805" x2="85.92" y2="107.973" stroke="#191919" stroke-width="1px" />
+<line x1="124.086" y1="105.807" x2="121.17" y2="110.646" stroke="#191919" stroke-width="1px" />
+<line x1="121.17" y1="110.646" x2="110.772" y2="107.283" stroke="#191919" stroke-width="1px" />
+<line x1="163.806" y1="117.579" x2="174.056" y2="110.639" stroke="#191919" stroke-width="1px" />
+<line x1="85.92" y1="107.973" x2="96.1421" y2="115.532" stroke="#191919" stroke-width="1px" />
+<line x1="151.239" y1="122.328" x2="163.806" y2="117.579" stroke="#191919" stroke-width="1px" />
+<line x1="96.1421" y1="115.532" x2="108.69" y2="121.041" stroke="#191919" stroke-width="1px" />
+<line x1="137.217" y1="124.56" x2="151.239" y2="122.328" stroke="#191919" stroke-width="1px" />
+<line x1="108.69" y1="121.041" x2="122.702" y2="124.12" stroke="#191919" stroke-width="1px" />
+<line x1="122.702" y1="124.12" x2="137.217" y2="124.56" stroke="#191919" stroke-width="1px" />
 </g>
 </svg>
